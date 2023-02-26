@@ -1,6 +1,6 @@
 # BTHome temperature sensor with nRF52
 
-This project implements a [BTHome](https://bthome.io/) temperature sensor with nRF52.
+This project implements a [BTHome](https://bthome.io/) temperature sensor using the nRF52840.
 
 # Building
 
